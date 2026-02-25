@@ -1,0 +1,10 @@
+what is ai : Artificial Intelligence is the ability of machines to think like humans.
+what is ml : Machine Learning is a part of AI that learns from data.
+what is python : Python is a programming language.
+what is flask : Flask is a Python web framework.
+what is faiss : FAISS is a tool used to search similar data quickly.
+what is html : HTML is used to create web pages.
+what is css : CSS is used to design web pages.
+what is javascript : JavaScript is used to make web pages interactive.
+who is prime minister of india : The Prime Minister of India is Narendra Modi.
+capital of india : The capital of India is New Delhi.
