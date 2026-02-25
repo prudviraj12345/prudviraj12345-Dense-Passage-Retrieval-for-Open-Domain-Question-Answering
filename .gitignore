@@ -1,0 +1,29 @@
+# ===== Python =====
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Node / Frontend =====
+node_modules/
+dist/
+
+# ===== Vite =====
+.vite/
+
+# ===== OS / Editor =====
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== Environment =====
+.env
+
+# ===== Large / Binary files =====
+*.exe
+*.dll
+*.bin
+*.npy
+
+# ===== Logs =====
+*.log
